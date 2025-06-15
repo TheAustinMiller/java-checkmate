@@ -11,6 +11,7 @@ public class Card {
 
     public int getVal() { return this.val; }
 
+
     @Override
     public String toString() {
         return val + "";
